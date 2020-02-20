@@ -1,5 +1,5 @@
-# Goodwill_inventory_Manage
-
+Goodwill_inventory_Manage
+---
 ### 인턴 과제
 
 - 기간 : 2020.01.20 ~ 2020.01.21
@@ -12,7 +12,7 @@
 - pandas
 - PyQt5
 
-### 한계점
+### 한계
 
 - 출력된 엑셀 디자인 불가
 - 엑셀에 저장된 함수를 못 읽어옴
