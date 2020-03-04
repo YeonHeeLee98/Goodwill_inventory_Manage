@@ -1,10 +1,6 @@
-<img src="./images/GoodWill_.jpg" width="60%">
-
 # Goodwill_inventory_Manage
 
-</br>
-
-
+<img src="./images/GoodWill_.jpg" width="60%">
 
 ## Internship
 - 인턴 기관 : Goodwill Industries of Central Florida, Inc.
