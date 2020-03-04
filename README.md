@@ -1,12 +1,14 @@
-# Goodwill_inventory_Manage
+# **Goodwill_inventory_Manage**
 
-<img src="./images/GoodWill_.jpg" width="50%">
+
+
+<img src="./images/GoodWill_.jpg" width="60%">
 
 </br>
 
 
 
-## Internship
+# Internship
 - 인턴 기관 : *Goodwill Industries of Central Florida, Inc.*
 - 기간 : 2020.01.06 ~ 2020.01.24
 
