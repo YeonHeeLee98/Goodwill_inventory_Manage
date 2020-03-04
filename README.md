@@ -1,6 +1,6 @@
 # Goodwill_inventory_Manage
 
-<img src="./images/GoodWill_.jpg" width="70%">
+<img src="./images/GoodWill_.jpg" width="50%">
 
 </br>
 
