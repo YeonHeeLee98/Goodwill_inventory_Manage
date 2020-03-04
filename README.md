@@ -2,7 +2,7 @@
 
 </br>
 
-<img src="./images/GoodWill_.jpg" width="80%">
+<img src="./images/GoodWill_.jpg" width="60%">
 
 ## Internship
 - 인턴 기관 : Goodwill Industries of Central Florida, Inc.
